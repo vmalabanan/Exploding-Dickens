@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title=".SFML_Template"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\cmake_modules\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title=".SFML_Template">
+				<Option output="C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/cmake-build-debug/.SFML_Template.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DSFML_STATIC"/>
+					<Add directory="C:/SFML-2.5.1/include"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/cmake-build-debug/Makefile&quot;  VERBOSE=1 .SFML_Template"/>
+					<CompileFile command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title=".SFML_Template/fast">
+				<Option output="C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/cmake-build-debug/.SFML_Template.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DSFML_STATIC"/>
+					<Add directory="C:/SFML-2.5.1/include"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/cmake-build-debug/Makefile&quot;  VERBOSE=1 .SFML_Template/fast"/>
+					<CompileFile command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/AssetName.h">
+			<Option target=".SFML_Template"/>
+		</Unit>
+		<Unit filename="C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/Assets.cpp">
+			<Option target=".SFML_Template"/>
+		</Unit>
+		<Unit filename="C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/Assets.h">
+			<Option target=".SFML_Template"/>
+		</Unit>
+		<Unit filename="C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/Button.cpp">
+			<Option target=".SFML_Template"/>
+		</Unit>
+		<Unit filename="C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/Button.h">
+			<Option target=".SFML_Template"/>
+		</Unit>
+		<Unit filename="C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/Card.cpp">
+			<Option target=".SFML_Template"/>
+		</Unit>
+		<Unit filename="C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/Card.h">
+			<Option target=".SFML_Template"/>
+		</Unit>
+		<Unit filename="C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/CardHand.cpp">
+			<Option target=".SFML_Template"/>
+		</Unit>
+		<Unit filename="C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/CardHand.h">
+			<Option target=".SFML_Template"/>
+		</Unit>
+		<Unit filename="C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/CardName.h">
+			<Option target=".SFML_Template"/>
+		</Unit>
+		<Unit filename="C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/Deck.cpp">
+			<Option target=".SFML_Template"/>
+		</Unit>
+		<Unit filename="C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/Deck.h">
+			<Option target=".SFML_Template"/>
+		</Unit>
+		<Unit filename="C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/DiscardPile.cpp">
+			<Option target=".SFML_Template"/>
+		</Unit>
+		<Unit filename="C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/DiscardPile.h">
+			<Option target=".SFML_Template"/>
+		</Unit>
+		<Unit filename="C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/DoublyLinkedList.cpp">
+			<Option target=".SFML_Template"/>
+		</Unit>
+		<Unit filename="C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/DoublyLinkedList.h">
+			<Option target=".SFML_Template"/>
+		</Unit>
+		<Unit filename="C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/ExplodingDickens.cpp">
+			<Option target=".SFML_Template"/>
+		</Unit>
+		<Unit filename="C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/ExplodingDickens.h">
+			<Option target=".SFML_Template"/>
+		</Unit>
+		<Unit filename="C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/GameScreen.cpp">
+			<Option target=".SFML_Template"/>
+		</Unit>
+		<Unit filename="C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/GameScreen.h">
+			<Option target=".SFML_Template"/>
+		</Unit>
+		<Unit filename="C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/GameScreenName.h">
+			<Option target=".SFML_Template"/>
+		</Unit>
+		<Unit filename="C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/Node.h">
+			<Option target=".SFML_Template"/>
+		</Unit>
+		<Unit filename="C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/OpponentHand.cpp">
+			<Option target=".SFML_Template"/>
+		</Unit>
+		<Unit filename="C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/OpponentHand.h">
+			<Option target=".SFML_Template"/>
+		</Unit>
+		<Unit filename="C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/Queue.cpp">
+			<Option target=".SFML_Template"/>
+		</Unit>
+		<Unit filename="C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/Queue.h">
+			<Option target=".SFML_Template"/>
+		</Unit>
+		<Unit filename="C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/Sounds.cpp">
+			<Option target=".SFML_Template"/>
+		</Unit>
+		<Unit filename="C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/Sounds.h">
+			<Option target=".SFML_Template"/>
+		</Unit>
+		<Unit filename="C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/Stack.cpp">
+			<Option target=".SFML_Template"/>
+		</Unit>
+		<Unit filename="C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/Stack.h">
+			<Option target=".SFML_Template"/>
+		</Unit>
+		<Unit filename="C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/StateName.h">
+			<Option target=".SFML_Template"/>
+		</Unit>
+		<Unit filename="C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/States.cpp">
+			<Option target=".SFML_Template"/>
+		</Unit>
+		<Unit filename="C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/States.h">
+			<Option target=".SFML_Template"/>
+		</Unit>
+		<Unit filename="C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/main.cpp">
+			<Option target=".SFML_Template"/>
+		</Unit>
+		<Unit filename="C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/Vanessa/Dropbox/#zqC++ Projects/zCS 003A/tFinal Project v75/cmake_modules/FindSFML.cmake">
+			<Option virtualFolder="CMake Files\cmake_modules\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
